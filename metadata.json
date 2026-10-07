@@ -1,0 +1,7 @@
+{
+  "name": "The Last Alibi",
+  "description": "A premium cinematic solo murder mystery game platform. Investigate suspects, examine forensic evidence, reconstruct the timeline, and uncover the truth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
